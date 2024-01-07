@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/media/nahid/New Volume2/SignificantDownloads/startup/src/app/layout\":[\"static/media/83746d9c4514e146-s.p.otf\",\"static/media/b4b112a47f6572de-s.p.otf\",\"static/media/21426b2c829cc1f4-s.p.otf\",\"static/media/6e94a79a813c19a7-s.p.otf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
